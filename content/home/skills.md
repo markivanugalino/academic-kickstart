@@ -26,6 +26,7 @@ subtitle = ""
  
  [[feature]]
    icon = "Mathematica_Logo"
+   icon_pack = "custom"
    name = "Mathematica"
   
 
