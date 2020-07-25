@@ -27,9 +27,12 @@ interests:
 
 education:
   courses:
-  - course: BSc in Physics
+  - course: MSc in Physics (in progress)
+    institution: University of the Philippines Diliman
+  - course: BSc in Physics 
     institution: University of the Philippines Diliman
     year: 2018
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
