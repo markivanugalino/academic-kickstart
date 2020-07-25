@@ -18,20 +18,20 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+  description = "Intermediate"
   
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+  description = "Beginner"
  
  [[feature]]
    icon = "Mathematica_Logo"
    icon_pack = "custom"
    name = "Mathematica"
+   description = "Intermediate"
    
-[design]
-  
-  columns = "2"
 
 # Uncomment to use emoji icons.
 # [[feature]]
