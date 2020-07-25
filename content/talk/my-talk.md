@@ -2,9 +2,9 @@
 title: Dynamical friction effects on circular orbits immersed in a finite gaseous background
 summary: Online thesis defense as partial fulfillment to the requirements for a masteral degree in Physics from the National Institute of Physics, University of the Philippines Diliman.
 
-date: "2020-07-25T16:00:00Z"
+date: "2020-07-25 T16:00:00Z"
 
-reading_time: false  # Show estimated reading time?
+reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
