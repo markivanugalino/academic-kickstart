@@ -23,6 +23,10 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+ 
+ [[feature]]
+   icon = "Mathematica_Logo"
+   name = "Mathematica"
   
 
 # Uncomment to use emoji icons.
