@@ -28,7 +28,10 @@ subtitle = ""
    icon = "Mathematica_Logo"
    icon_pack = "custom"
    name = "Mathematica"
+   
+[design]
   
+  columns = "1"
 
 # Uncomment to use emoji icons.
 # [[feature]]
