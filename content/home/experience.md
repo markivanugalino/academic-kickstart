@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Instructor 1"
+  company = "University of the Philippines Diliman"
+  company_url = "upd.edu.ph"
+  location = "Quezon City, Philippines"
+  date_start = "2018-08-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Teaching introductory lecture and laboratory courses in electromagnetism, classical mechanics, and physical electronics
+  * Course group leader of the elementary physics laboratory in electromagnetism and optics (Academic Year 2019-2020)
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Education and Research Cluster Coordinator"
+  company = "University of the Philippines Astronomical Society"
   company_url = ""
-  location = "California"
+  location = "Quezon City, Philippines"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  description = """
+  Responsibilities include:
+  
+  * Gave lectures on the subject of celestial spheres to applicants as part of our semestral application process
+  * Expanded the book and periodical collection of the organization through donation campaigns
+  * Served as head during the 2016 installment of the Big Bang! Astronomy Quiz Show held during the 2016 National Astronomy Week
+  """
 +++
