@@ -27,15 +27,15 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "Dynamical Friction in circular orbits"
-     tag = "Astrophysics"
+     tag = "*"
   
    [[content.filter_button]]
      name = "Other"
-     tag = "Demo"
+     tag = "*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
