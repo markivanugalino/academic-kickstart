@@ -25,9 +25,9 @@ subtitle = ""
   #   name = "All"
   #   tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Dynamical Friction in circular orbits"
+     tag = "Astrophysics"
   
   # [[content.filter_button]]
   #   name = "Other"
@@ -56,9 +56,9 @@ subtitle = ""
   # Background color.
   # color = "navy"
   
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+  Background gradient.
+   gradient_start = "DeepSkyBlue"
+   gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
