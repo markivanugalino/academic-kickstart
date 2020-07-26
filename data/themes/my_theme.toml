@@ -9,7 +9,7 @@ primary = "#000000"
 
 # Menu
 menu_primary = "#000000" # 500
-menu_text = "#FFFFFF"
+menu_text = "#fffff"
 menu_text_active = "#8c9eff" # A100
 menu_title = "#fffff"
 
