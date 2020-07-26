@@ -45,8 +45,7 @@ date_format = "Jan 2006"
   * Expanded the book and periodical collection of the organization through donation campaigns
   * Served as head during the 2016 installment of the Big Bang! Astronomy Quiz Show held during the 2016 National Astronomy Week
   """
+Public service: Reviewer for the _Samahang Pisika ng Pilipinas_ (2018-present), Writer and Editor for the _Parish of the Holy Sacrifice Media Ministry_ (2017-2018)
 +++
- 
-+++
- Public service: Reviewer for the _Samahang Pisika ng Pilipinas_ (2018-present), Writer and Editor for the _Parish of the Holy Sacrifice Media Ministry_ (2017-2018)
-+++
+
+
