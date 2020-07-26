@@ -56,7 +56,7 @@ subtitle = ""
 
 [design.background]
   # Background color.
-  color = "#10188D"
+  color = "#9195DC"
   
   # Text color (true=light or false=dark).
   text_color_light = true
