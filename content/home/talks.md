@@ -41,12 +41,6 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 3
    
-[design.background]
-  # Background color.
-  color = "#8b9bf7"
-  
-  # Text color (true=light or false=dark).
-  text_color_light = true
   
 [advanced]
  # Custom CSS. 
