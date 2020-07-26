@@ -47,6 +47,6 @@ date_format = "Jan 2006"
   """
 +++
  
----
++++
  Public service: Reviewer for the _Samahang Pisika ng Pilipinas_ (2018-present), Writer and Editor for the _Parish of the Holy Sacrifice Media Ministry_ (2017-2018)
----
++++
