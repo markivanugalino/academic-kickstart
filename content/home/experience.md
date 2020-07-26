@@ -1,4 +1,4 @@
----
++++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -45,6 +45,6 @@ date_format = "Jan 2006"
   * Expanded the book and periodical collection of the organization through donation campaigns
   * Served as head during the 2016 installment of the Big Bang! Astronomy Quiz Show held during the 2016 National Astronomy Week
   """
----
++++
 
 
