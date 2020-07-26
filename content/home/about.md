@@ -13,7 +13,7 @@ title = "Bio"
 author = "admin"
 
 [background]
-  # Background image.
+  Background image.
   image = "GSFC_20171208_Archive_e001925_orig"  # Name of image in `static/img/`.
   image_darken = 0.6 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
