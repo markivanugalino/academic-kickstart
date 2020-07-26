@@ -15,14 +15,14 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
+  icon = "icons8-python"
+  icon_pack = "custom"
   name = "Python"
   description = "Advanced"
   
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "Rlogo"
+  icon_pack = "custom"
   name = "R"
   description = "Beginner"
  
