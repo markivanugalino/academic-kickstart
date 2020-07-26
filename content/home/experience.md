@@ -29,6 +29,8 @@ date_format = "Jan 2006"
   
   * Teaching introductory lecture and laboratory courses in electromagnetism, classical mechanics, and physical electronics
   * Course group leader of the elementary physics laboratory in electromagnetism and optics (Academic Year 2019-2020)
+ 
+  _Awarded with the "Gawad Direktor para sa Natatanging Bagong Guro" and the "Gawad Direktor para sa Natatanging Discussion Teacher" in 2018 for an exemplary performance as a newly-hired faculty of the Institute, and as a recitation instructor in lecture courses._
   """
 
 [[experience]]
