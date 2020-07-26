@@ -23,7 +23,7 @@ bio: My research interests include astrophysics, partial differential equations 
 interests:
 - Astrophysics in the interstellar medium
 - Exoplanets, formation and evolution
-- Green's function solutions to differential equations
+- Green's function methods in physics
 
 education:
   courses:
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate researcher at the National Institute of Physics, University of the Philippines Diliman. I was born and raised in **Quezon City, Philippines**. My main research interests are on stellar & planetary astronomy, partial differential equations, and computational physics. Writing poems and short literary works are my ways of exploring the intersection of the sciences and humanities.
+I am a graduate researcher at the National Institute of Physics, University of the Philippines Diliman. I was born and raised in **Quezon City, Philippines**. My main research interests are on _stellar & planetary astronomy_, _partial differential equations_, and _computational physics_. Writing poems and short literary works are my ways of exploring the intersection of the sciences and humanities.
 
 
