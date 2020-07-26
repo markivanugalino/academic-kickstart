@@ -32,7 +32,12 @@ subtitle = ""
    name = "Mathematica"
    description = "Intermediate"
    
-
+ [[feature]]
+    icon = "julia-dots"
+    icon_pack = "custom"
+    name = "Julia"
+    description = "Beginner"
+   
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
