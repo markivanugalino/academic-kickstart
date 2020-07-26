@@ -22,7 +22,7 @@ bio: My research interests include astrophysics, partial differential equations 
 
 interests:
 - Astrophysics in the interstellar medium
-- Exoplanets, formation and evolution
+- Formation and evolution of stars and planets in low-mass disks
 - Green's function methods in physics
 
 education:
