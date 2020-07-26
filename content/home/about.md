@@ -12,7 +12,7 @@ title = "Bio"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 
-[background]
+[design.background]
   # Background image.
   image = "a-sky-view-of-earth-from-suomi-npp_16611703184_o_orig.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
