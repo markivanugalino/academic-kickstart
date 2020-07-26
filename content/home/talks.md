@@ -60,6 +60,12 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+[design.background]
+  # Background color.
+  color = "#3f51b5"
+  
+  # Text color (true=light or false=dark).
+  text_color_light = true
   
 [advanced]
  # Custom CSS. 
