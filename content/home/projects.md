@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
@@ -21,13 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-   #[[content.filter_button]]
-   #  name = "All"
-   #  tag = "*"
+   [[content.filter_button]]
+     name = "All"
+     tag = "*"
   
-   #[[content.filter_button]]
-   #  name = "Dynamical Friction in circular orbits"
-  #   tag = "*"
+   [[content.filter_button]]
+     name = "Dynamical Friction"
+     tag = "Dynamical friction"
+ 
+   [[content.filter_button]]
+     name = "Codes and Problem Sets"
+     tag = "Codes and problem sets"
   
   # [[content.filter_button]]
    #  name = "Other"
@@ -57,8 +61,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-   gradient_start = "SkyBlue"
-   gradient_end = "White"
+   #gradient_start = "SkyBlue"
+   #gradient_end = "White"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
