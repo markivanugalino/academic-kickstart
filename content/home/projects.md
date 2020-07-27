@@ -26,8 +26,8 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Dynamical Friction"
-     tag = "Dynamical friction"
+     name = "Research"
+     tag = "Research"
  
    [[content.filter_button]]
      name = "Codes and Problem Sets"
