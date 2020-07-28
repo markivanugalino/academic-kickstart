@@ -1,4 +1,5 @@
 ---
 title: Dynamical Friction
-tag: "Research"
+tags: 
+- "Research"
 ---
