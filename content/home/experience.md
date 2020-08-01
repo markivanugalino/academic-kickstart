@@ -35,16 +35,17 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Education and Research Cluster Coordinator"
+  title = "Education and Research Cluster Coordinator (June - December 2017)"
   company = "University of the Philippines Astronomical Society"
   company_url = ""
   location = "Quezon City, Philippines"
-  date_start = "2017-06-01"
-  date_end = "2017-12-31"
+  date_start = "2016-06"
+  date_end = "Present"
   description = """
   Responsibilities include:
   
   * Gave lectures on the subject of celestial spheres to applicants as part of our semestral application process
+  * Engaged high school students through lectures and activities about astronomy (history, misconceptions, and basic facts)
   * Expanded the book and periodical collection of the organization through donation campaigns
   * Served as head during the 2016 installment of the Big Bang! Astronomy Quiz Show held during the 2016 National Astronomy Week
   """
