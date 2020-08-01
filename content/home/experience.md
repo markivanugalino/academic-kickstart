@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Education and Research Cluster Coordinator (June - December 2017)"
+  title = "Education and Research Cluster Coordinator"
   company = "University of the Philippines Astronomical Society"
   company_url = ""
   location = "Quezon City, Philippines"
