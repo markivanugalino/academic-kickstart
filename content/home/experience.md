@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company = "University of the Philippines Astronomical Society"
   company_url = ""
   location = "Quezon City, Philippines"
-  date_start = "2016-06"
+  date_start = "2016-06-01"
   date_end = ""
   description = """
   Responsibilities include:
