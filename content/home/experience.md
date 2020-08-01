@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Quezon City, Philippines"
   date_start = "2016-06"
-  date_end = "Present"
+  date_end = ""
   description = """
   Responsibilities include:
   
