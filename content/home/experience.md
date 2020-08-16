@@ -27,8 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Teaching introductory lecture and laboratory courses in electromagnetism, classical mechanics, and physical electronics
+  * Teaching introductory lecture and laboratory courses in electromagnetism, classical mechanics, computational physics and physical electronics
   * Course group leader of the elementary physics laboratory in electromagnetism and optics (Academic Year 2019-2020)
+  * Handles classes both in face-to-face (since 2018) and online format (starting AY 2020-2021)
  
  
   _Awarded with the "Gawad Direktor para sa Natatanging Bagong Guro" and the "Gawad Direktor para sa Natatanging Discussion Teacher" in 2018 for his exemplary performance as a newly-hired faculty of the Institute, and as a recitation instructor in lecture courses._
