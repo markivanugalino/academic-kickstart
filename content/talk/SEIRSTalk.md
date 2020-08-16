@@ -2,7 +2,7 @@
 title: On the dynamics of SEIRS epidemic model with transport-related infection
 summary: Talk on the effect of transport between two cities to the transmission of infectious diseases as terminal requirement for my Math elective on mathematical methods in biology.
 
-date: "2020-08-20T14:00:00Z"
+date: "2020-08-16T14:00:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
