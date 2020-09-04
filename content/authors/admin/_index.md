@@ -29,7 +29,7 @@ education:
   courses:
   - course: MSc in Physics
     institution: University of the Philippines Diliman (Adviser - Ian Vega)
-    year: 2018
+    year: 2020
     
   - course: BSc in Physics 
     institution: University of the Philippines Diliman (Adviser - Ian Vega)
