@@ -1,5 +1,5 @@
 ---
-title: Density perturbations in a collisional fluid induced by a particle on a slightly-eccentric orbit
+title: Steady-state density perturbations induced by a point mass in a finite cylinder
 date: "2020-09-11"
 publication_types: [1]
 publication: "Proceedings of the Samahang Pisika ng Pilipinas 38"
