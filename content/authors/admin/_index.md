@@ -28,11 +28,11 @@ interests:
 education:
   courses:
   - course: MSc in Physics
-    institution: University of the Philippines Diliman (Adviser - Ian Vega)
+    institution: University of the Philippines Diliman (Adviser - Ian Vega, PhD)
     year: 2020
     
   - course: BSc in Physics 
-    institution: University of the Philippines Diliman (Adviser - Ian Vega)
+    institution: University of the Philippines Diliman (Adviser - Ian Vega, PhD)
     year: 2018
 
 
