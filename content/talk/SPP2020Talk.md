@@ -2,7 +2,7 @@
 title: Steady-state density perturbations induced by a point mass in a finite cylinder
 summary: Contributed talk to the 38th Samahang Pisika ng Pilipinas physics conference, Theoretical and Mathematical Physics section
 
-date: "2020-10-22T17:45:00Z"
+date: "2020-10-22T5:45:00Z"
 
 reading_time: true  # Show estimated reading time?
 share: true  # Show social sharing links?
