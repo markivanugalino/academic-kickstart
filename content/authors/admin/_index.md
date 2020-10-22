@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate researcher at the National Institute of Physics, University of the Philippines Diliman. I was born and raised in **Quezon City, Philippines**. My main research interests are on _stellar & planetary astrophysics_, _partial differential equations_, and _computational physics_. Writing poems and short literary works are my ways of exploring the intersection of the sciences and humanities.
+I am a graduate researcher at the National Institute of Physics, University of the Philippines Diliman. I was born and raised in **Quezon City, Philippines**. My main research interests are on _stellar & planetary astrophysics_, _partial differential equations_, and _computational physics_. [Writing poems and short literary works](https://migugalino.wixsite.com/markugalino/poems) are my ways of exploring the intersection of the sciences and humanities.
 
 
