@@ -50,6 +50,14 @@ date_format = "Jan 2006"
   * Expanded the book and periodical collection of the organization through donation campaigns
   * Served as head during the 2016 installment of the Big Bang! Astronomy Quiz Show held during the 2016 National Astronomy Week
   """
+[[experience]]
+  title = "Reviewer"
+  company = "Samahang Pisika ng Pilipinas Physics Conference"
+  company_url = "https://spp-online.org/"
+  location = "Philippines"
+  date_start = "2019"
+  date_end = ""
+  description = "Reviews article submissions related to theoretical and mathematical physics"
 
 +++
 
