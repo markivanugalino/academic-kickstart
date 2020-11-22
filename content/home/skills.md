@@ -18,25 +18,25 @@ subtitle = ""
   icon = "icons8-python"
   icon_pack = "custom"
   name = "Python"
-  description = "Advanced"
+  description = "5 yrs"
   
 [[feature]]
   icon = "Rlogo"
   icon_pack = "custom"
   name = "R"
-  description = "Beginner"
+  description = "< 1 yr"
  
  [[feature]]
    icon = "Mathematica_Logo"
    icon_pack = "custom"
    name = "Mathematica"
-   description = "Intermediate"
+   description = "3 yrs"
    
  [[feature]]
     icon = "julia-dots"
     icon_pack = "custom"
     name = "Julia"
-    description = "Beginner"
+    description = "< 1 yr"
    
 # Uncomment to use emoji icons.
 # [[feature]]
