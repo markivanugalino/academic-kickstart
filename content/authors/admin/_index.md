@@ -29,7 +29,8 @@ education:
   courses:
   - course: PhD in Engineering and Applied Science
     institution: UMass Dartmouth (Adviser - Robert Fisher, PhD)
-    year - 2021 (_ongoing_)
+    year: 2021 (_ongoing_)
+    
   - course: MSc in Physics
     institution: University of the Philippines Diliman (Adviser - Ian Vega, PhD)
     year: 2020
