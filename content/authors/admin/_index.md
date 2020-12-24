@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Engineering and Applied Science
     institution: UMass Dartmouth (Adviser - Robert Fisher, PhD)
-    year: 2021 (_ongoing_)
+    year: 2021-2025 
     
   - course: MSc in Physics
     institution: University of the Philippines Diliman (Adviser - Ian Vega, PhD)
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate researcher at the National Institute of Physics, University of the Philippines Diliman. I was born and raised in **Quezon City, Philippines**. My main research interests are on _stellar & planetary astrophysics_, _partial differential equations_, and _computational physics_. [Writing poems and short literary works](https://migugalino.wixsite.com/markugalino/poems) are my ways of exploring the intersection of the sciences and humanities.
+I am a PhD student researcher at the Engineering and Applied Science program of the University of Massachusetts Dartmouth. I was born and raised in **Quezon City, Philippines**. My main research interests are on _stellar & planetary astrophysics_, _partial differential equations_, and _computational physics_. [Writing poems and short literary works](https://migugalino.wixsite.com/markugalino/poems) are my ways of exploring the intersection of the sciences and humanities.
 
 
