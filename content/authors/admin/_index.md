@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Instructor of Physics
+role: Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: National Institute of Physics, University of the Philippines Diliman
+- name: Department of Physics, UMass Dartmouth
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Engineering and Applied Science
+    institution: UMass Dartmouth (Adviser - Robert Fisher, PhD)
+    year - 2021 (_ongoing_)
   - course: MSc in Physics
     institution: University of the Philippines Diliman (Adviser - Ian Vega, PhD)
     year: 2020
