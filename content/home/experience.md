@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "upd.edu.ph"
   location = "Quezon City, Philippines"
   date_start = "2018-08-01"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """
   Responsibilities include:
   
