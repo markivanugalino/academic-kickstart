@@ -17,17 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Teaching Assistant"
-  company = "UMass Dartmouth"
-  company_url = "umassd.edu"
-  location = "Dartmouth, Massachusetts, USA"
-  description = """
-  Responsibilities include:
-  
-  * Teaching laboratory and recitation sections in the Physics department
-  """
-  
+
 [[experience]]
   title = "Instructor 1"
   company = "University of the Philippines Diliman"
