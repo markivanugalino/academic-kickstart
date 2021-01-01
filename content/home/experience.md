@@ -22,8 +22,6 @@ date_format = "Jan 2006"
   company = "UMass Dartmouth"
   company_url = "umassd.edu"
   location = "Dartmouth, Massachusetts, USA"
-  date_start = "2021-01-17"
-  date_end  = " "
   description = """
   Responsibilities include:
   
