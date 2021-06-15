@@ -97,7 +97,7 @@ address = {street = "285 Old Westport Road", city = "North Dartmouth", region = 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.63036504272681", longitude = "-71.00672240042313"} , 
+coordinates = {latitude = "41.63036504272681", longitude = "-71.00672240042313"}
 
 # Directions for visitors to locate you.
 directions = []
@@ -113,8 +113,8 @@ appointment_url = []
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/_astroboii"},
-  {icon = "skype", icon_pack = "fab", name = "Skype", link = "live:.cid.c44b2891225632f6"},
-  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/markastroboii/"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype", link = "live:.cid.c44b2891225632f6"},
+  #{icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/markastroboii/"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
