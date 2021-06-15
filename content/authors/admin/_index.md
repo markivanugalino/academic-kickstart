@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Teaching Assistant
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:migugalino@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mugalino@umassd.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_astroboii
