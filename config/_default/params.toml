@@ -16,7 +16,7 @@
 theme = "my_theme"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Mark Ugalino's academic website. Mark is a graduate researcher from the University of the Philippines."
+description = "Mark Ugalino's academic website. Mark is a graduate researcher from UMass Dartmouth under the supervision of Professor Robert Fisher."
 
 ############################
 ## Site Features
@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "migugalino@gmail.com"
-phone = "(+63) (02) 981 8500 loc 3702"
+email = "mugalino@umassd.edu"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "National Institute of Physics, National Science Complex", city = "Quezon City", region = "NCR", postcode = "1101", country = "United States", country_code = "PH"}
+address = {street = "285 Old Westport Road", city = "North Dartmouth", region = "Massachusetts", postcode = "02747", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "14.648937", longitude = "121.072601"}
+coordinates = {latitude = "41.63036504272681", longitude = "-71.00672240042313"} , 
 
 # Directions for visitors to locate you.
 directions = []
